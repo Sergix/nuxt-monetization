@@ -1,12 +1,12 @@
 {
   "name": "nuxt-monetization",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Web monetization module for Nuxt.",
-  "repository": "",
+  "repository": "https://github.com/sergix/nuxt-monetization",
   "license": "MIT",
   "contributors": [
     {
-      "name": "sergix <sergix@outlook.com>"
+      "name": "sergix <hello@sergix.dev>"
     }
   ],
   "files": [
@@ -17,7 +17,8 @@
     "dev": "nuxt example",
     "lint": "eslint --ext .js,.vue .",
     "release": "yarn test && standard-version && git push --follow-tags && npm publish",
-    "test": "yarn lint && jest"
+    "test": "yarn lint && jest",
+    "deploy": "npm publish"
   },
   "dependencies": {},
   "devDependencies": {
