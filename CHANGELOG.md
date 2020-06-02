@@ -1,5 +1,9 @@
 # Changelog
 
+[Unreleased]
+
+- add project logo
+
 [v1.0.0]
 
 - push initial version code

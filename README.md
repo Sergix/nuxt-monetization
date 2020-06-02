@@ -6,6 +6,8 @@
 [![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
+![Nuxt + Web Monetization](assets/nuxt_webmo_logo.svg)
+
 > Web monetization module for Nuxt.
 
 [📖 **Release Notes**](./CHANGELOG.md)
