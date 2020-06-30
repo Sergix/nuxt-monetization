@@ -8,12 +8,12 @@ module.exports = {
     {
       handler: require('../'),
       options: {
-        paymentPointer: '$wallet.example.com/alice',
-        global: true
+        paymentPointer: '$ilp.uphold.com/8bJBkDmJDw4R',
+        global: false
       }
     }
   ],
   server: {
-    port: 8000
+    port: 8080
   }
 }
